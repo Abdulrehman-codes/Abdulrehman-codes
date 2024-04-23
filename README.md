@@ -38,6 +38,4 @@
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrehman-codes" alt="abdulrehman-codes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulre26019449" target="blank"><img src="https://img.shields.io/twitter/follow/abdulre26019449?logo=twitter&style=for-the-badge" alt="abdulre26019449" /></a> </p>
-
 
