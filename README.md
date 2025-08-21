@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">4th Year Student of CS and A DataScience/Machine Learning Enthusiast</h3>
+<h3 align="center">A DataScientist and Machine Learning Engineer</h3>
 
 
 
 
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working as a **Data Scientist**
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Abdulrehman-codes](https://github.com/Abdulrehman-codes)
-
-- 📝 I regularly write articles on [https://medium.com/@baigabdulrehman21](https://medium.com/@baigabdulrehman21)
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **baigabdulrehman21@gmail.com**
 
-- ⚡ Fun fact **I have already seen the reels You sent me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
